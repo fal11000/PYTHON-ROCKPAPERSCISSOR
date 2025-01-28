@@ -1,1 +1,2 @@
 # PYTHON-ROCKPAPERSCISSOR
+Project of famous game "ROCK PAPER SCISSOR"
